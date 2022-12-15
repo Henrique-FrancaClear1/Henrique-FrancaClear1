@@ -2,7 +2,7 @@
 - 🌱  Estudando de Analide de Desenvolvimento de Sistemas
 
 <div align="center">
-  <a href="https://github.com/Henrique-FrançaClear1">
+  <a href="https://github.com/Henrique-FrancaClear1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Henrique-FrancaClear1&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-FrancaClear1&layout=compact&langs_count=7&theme=shades-of-purple""/>
 </div>
